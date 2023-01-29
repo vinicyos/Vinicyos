@@ -3,7 +3,7 @@
 
 - 👶🏻 Hoje estou em busca da minha primeira oportunidade como Front-end junior
 - 👨🏻‍💻 Estudando HTML, CSS, JavaScript
-- 📫 Entra em contato comigo em: vinicyos.neris@outlool.com
+- 📫 Entra em contato comigo em: vinicyos.neris@outlook.com
 - ⚡ Fun fact: Como sanduiches de garfo e faca😂, é um fun fact vai.
 - 🐟 Podem me chamar de Vini
 
