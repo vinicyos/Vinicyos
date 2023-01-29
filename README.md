@@ -7,12 +7,6 @@
 - ⚡ Fun fact: Como sanduiches de garfo e faca😂, é um fun fact vai.
 - 🐟 Podem me chamar de Vini
 
-<div align="center">
-  <a href="https://github.com/vinicyos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vinicyos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicyos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## Habilidades
   
 <div style="display: inline_block"><br>
