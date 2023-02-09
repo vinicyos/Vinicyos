@@ -2,7 +2,7 @@
 
 <img align="top" alt="Vini-pic" height="300" style="border-radius:50px;" src="https://uploaddeimagens.com.br/images/004/317/545/original/download20230106233257.png?1674959709">
 
-- 👶🏻 Hoje estou em busca da minha primeira oportunidade como Front-end junior
+- 👶🏻 Hoje estou em busca da minha primeira oportunidade como Front-end junior ou estágio
 - 👨🏻‍💻 Estudando HTML, CSS, JavaScript
 - 📫 Entra em contato comigo em: vinicyos.neris@outlook.com
 - ⚡ Fun fact: Como sanduiches de garfo e faca😂, é um fun fact vai.
